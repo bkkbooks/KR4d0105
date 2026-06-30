@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0105/SBCK/v1/juan/71
+seq: 71
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 􅀙兄无􅰞平曰著述甚冨元祐末在館閣時嘗自製其序宣和以前世莫散傳今所得者古􅑝騷辭四十有三古律詩六百三十有三表􅢳雜文史評六百九十有三自捐館舍逮今二十八年始得編次爲七十卷刋于建陽紹興七年丁巳十一月旦日弟右朝奉郎權福建路轉運判官謙之謹題
+  hash: sha256:c8063a439f20ec075e42fbbcbfa5c92888bb73bd9fcbcc4695bd401271eddfb2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0105_SBCK_071-1a}
+metadata:
+  title: 濟北晁先生雞肋集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-11 10:03:39.558716'
+  source:
+    repository: kanripo
+    path: KR4d0105/KR4d0105_071.txt
+hash: sha256:ca6230d57f3519869de74f95f1803946b1f2fee7c4b0a9426e21739b8838ce40

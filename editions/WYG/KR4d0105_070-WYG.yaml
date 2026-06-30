@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0105/WYG/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 目
+  hash: sha256:67220858d7f44bbc1242dd89a6bc4520bb072bc8b8b4a33a4281d561ccf1e9da
+metadata:
+  title: 濟北晁先生雞肋集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 10:03:39.558716'
+  source:
+    repository: kanripo
+    path: KR4d0105/KR4d0105_070.txt
+hash: sha256:7dbf47ab1abf610a258b699045265e363b1076c7e59eb97d2165b0811d1028fe
