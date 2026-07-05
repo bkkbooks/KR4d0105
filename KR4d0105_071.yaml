@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 從兄無􅰞平曰著述甚冨元祐末在館閣時嘗自製其序宣和以前世莫散傳今所得者古賦騷辭四十有三古律詩六百三十有三表􅢳雜文史評六百九十有三自捐館舍逮今二十八年始得編次為七十卷刋于建陽紹興七年丁巳十一月旦日弟右朝奉郎權福建路轉運判官謙之謹題
-  hash: sha256:b426da457aebdfd6ea0454e9f72c1f4a61dd7d36a49ad1892e91b1a7a43f1f7c
+  text: 從兄无􅰞平曰著述甚冨元祐末在館閣時嘗自製其序宣和以前世莫散傳今所得者古賦騷辭四十有三古律詩六百三十有三表􅢳雜文史評六百九十有三自捐館舍逮今二十八年始得編次爲七十卷刋于建陽紹興七年丁巳十一月旦日弟右朝奉郎權福建路轉運判官謙之謹題
+  hash: sha256:99fa690b2d38468cdf45260bf7dbf8b09a3f53b731b6d50c94841088aabf28fc
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0105_SBCK_071-1a}
 metadata:
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0105/KR4d0105_071.txt
-hash: sha256:7a7399adbf024fb547c5375256a3bf4a6ec8f4f11aa3c41ae730d42b9af3f0ef
+hash: sha256:f164f99c9c101a308f3b332d11bf959db6d4b2532d628b4fe84a293f54f740b9
