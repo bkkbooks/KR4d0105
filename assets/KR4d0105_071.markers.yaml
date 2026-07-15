@@ -14,6 +14,7 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0105_WYG_070-2a, image: WYG1118/WYG1118-1014a.png}
   - {type: variant, offset: 1, length: 4, content: 兄无􅰞平, WYG: 苦入苦大可厭患況無出期故如來警之以雷震法音示之以天然覺路設有七寳布施滿恒河沙不如四句受持等虚空量而此小邑其中萬家雖建梵宫猶虚龍藏醍醐上味至死不嘗摩尼寳珠曠劫常棄豈不共生慙愧同作因縁今聞上國伽藍適有古教緗帙題緘萬巻價直千緡欲置六師殿堂不妨八部衛守普願聞見咸發慈悲大事圓成諸方慶讚若僧若俗得誦得持十地一椉性陸蓮而不染三塗八難罪湯雪以無餘或素或緇}
   - {type: page-break, offset: 1, content: '', id: KR4d0105_WYG_070-2b, image: WYG1118/WYG1118-1014b.png}
+  - {type: substitution, offset: 2, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: variant, offset: 6, length: 6, content: 著述甚冨元祐, WYG: 男曰女不以多寡便為重輕惟能運喜捨心則必獲法施福恭惟大覺證之謹疏請則和尚説圓覺經疏伏以修多羅教者如來本起因地正受住持大湼槃門妙莊嚴路十二部經諸決定義十二菩薩所修行因流出無量一切吉祥真如超過恒沙十方文字譬喻若廣説說者千劫不盡若無說説者一句不煩然而}
   - {type: page-break, offset: 6, content: '', id: KR4d0105_WYG_070-3a, image: WYG1118/WYG1118-1014c.png}
   - {type: 'kr:newline', offset: 13, content: '
@@ -73,6 +74,7 @@ markers:
       ', id: KR4d0105_krp_071-bkkkrnewl6}
   - {type: line-break, offset: 70, content: '', id: KR4d0105_SBCK_071-1a06}
   - {type: indent, offset: 70, content: 　, id: KR4d0105_krp_071-bkkind6}
+  - {type: substitution, offset: 77, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 80, length: 33, content: 卷刋于建陽紹興七年丁巳十一月旦日弟右朝奉郎權福建路轉運判官謙之謹題, WYG: ''}
   - {type: 'kr:newline', offset: 85, content: '
 
@@ -96,4 +98,4 @@ markers:
 
       ', id: KR4d0105_krp_071-bkkkrnewl11}
   back: []
-hash: sha256:1b5bc155f3c0ae9bfc808dc21b93d72098b507aff46a680a630399d26bcfed50
+hash: sha256:f051d5d3b1cba86b8f9906a2f2f6a811196184c7b51770a23ebff398894e8371
