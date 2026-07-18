@@ -170,6 +170,7 @@ markers:
   - {type: substitution, offset: 200, original: 韵, replacement: 韻, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17636}}
   - {type: punctuation, offset: 213, content: (, id: KR4d0105_krp_017-bkkpn1}
   - {type: variant, offset: 213, length: 0, content: '', WYG: 亭在}
+  - {type: voice, offset: 213, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 215, content: /, id: KR4d0105_krp_017-bkkpn2}
   - {type: variant, offset: 215, length: 2, content: 亭在, WYG: ''}
   - {type: punctuation, offset: 217, content: ), id: KR4d0105_krp_017-bkkpn3}
@@ -186,6 +187,7 @@ markers:
   - {type: indent, offset: 218, content: 　　　, id: KR4d0105_krp_017-bkkind25}
   - {type: punctuation, offset: 228, content: (, id: KR4d0105_krp_017-bkkpn6}
   - {type: variant, offset: 228, length: 3, content: 役永安, WYG: ''}
+  - {type: voice, offset: 228, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 231, content: /, id: KR4d0105_krp_017-bkkpn7}
   - {type: punctuation, offset: 235, content: ), id: KR4d0105_krp_017-bkkpn8}
   - {type: 'kr:newline', offset: 235, content: '
@@ -216,6 +218,7 @@ markers:
   - {type: substitution, offset: 253, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 254, content: (, id: KR4d0105_krp_017-bkkpn9}
   - {type: variant, offset: 254, length: 1, content: 終, WYG: 欽}
+  - {type: voice, offset: 254, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 255, content: ), id: KR4d0105_krp_017-bkkpn10}
   - {type: 'kr:newline', offset: 255, content: '
 
@@ -239,6 +242,7 @@ markers:
   - {type: indent, offset: 267, content: 　, id: KR4d0105_krp_017-bkkind28}
   - {type: variant, offset: 267, length: 0, content: '', WYG: 宋晁補之撰}
   - {type: punctuation, offset: 269, content: (, id: KR4d0105_krp_017-bkkpn11}
+  - {type: voice, offset: 269, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 271, content: ), id: KR4d0105_krp_017-bkkpn12}
   - {type: 'kr:newline', offset: 271, content: '
 
@@ -335,6 +339,7 @@ markers:
   - {type: line-break, offset: 524, content: '', id: KR4d0105_SBCK_017-4a01}
   - {type: punctuation, offset: 542, content: (, id: KR4d0105_krp_017-bkkpn13}
   - {type: variant, offset: 542, length: 0, content: '', WYG: 新}
+  - {type: voice, offset: 542, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 543, content: /, id: KR4d0105_krp_017-bkkpn14}
   - {type: variant, offset: 543, length: 1, content: 新, WYG: 漢所徙}
   - {type: punctuation, offset: 544, content: ), id: KR4d0105_krp_017-bkkpn15}
@@ -494,6 +499,7 @@ markers:
   - {type: line-break, offset: 930, content: '', id: KR4d0105_SBCK_017-5a08}
   - {type: punctuation, offset: 948, content: (, id: KR4d0105_krp_017-bkkpn19}
   - {type: variant, offset: 948, length: 0, content: '', WYG: 補}
+  - {type: voice, offset: 948, length: 14, name: note, id: n6}
   - {type: punctuation, offset: 949, content: /, id: KR4d0105_krp_017-bkkpn20}
   - {type: variant, offset: 949, length: 1, content: 補, WYG: 初舉進士毅父}
   - {type: punctuation, offset: 950, content: ), id: KR4d0105_krp_017-bkkpn21}
@@ -532,6 +538,7 @@ markers:
   - {type: substitution, offset: 1039, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: punctuation, offset: 1053, content: (, id: KR4d0105_krp_017-bkkpn25}
   - {type: variant, offset: 1053, length: 0, content: '', WYG: 安}
+  - {type: voice, offset: 1053, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 1054, content: /, id: KR4d0105_krp_017-bkkpn26}
   - {type: variant, offset: 1054, length: 1, content: 安, WYG: ''}
   - {type: punctuation, offset: 1055, content: ), id: KR4d0105_krp_017-bkkpn27}
@@ -543,6 +550,7 @@ markers:
   - {type: page-break, offset: 1061, content: '', id: KR4d0105_WYG_017-6a, image: WYG1118/WYG1118-0524a.png}
   - {type: punctuation, offset: 1062, content: (, id: KR4d0105_krp_017-bkkpn28}
   - {type: variant, offset: 1062, length: 0, content: '', WYG: 巢}
+  - {type: voice, offset: 1062, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 1063, content: /, id: KR4d0105_krp_017-bkkpn29}
   - {type: variant, offset: 1063, length: 1, content: 巢, WYG: ''}
   - {type: punctuation, offset: 1064, content: ), id: KR4d0105_krp_017-bkkpn30}
@@ -575,6 +583,7 @@ markers:
   - {type: substitution, offset: 1141, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20775}}
   - {type: punctuation, offset: 1148, content: (, id: KR4d0105_krp_017-bkkpn31}
   - {type: variant, offset: 1148, length: 0, content: '', WYG: 曾丞相云户}
+  - {type: voice, offset: 1148, length: 12, name: note, id: n9}
   - {type: punctuation, offset: 1153, content: /, id: KR4d0105_krp_017-bkkpn32}
   - {type: variant, offset: 1153, length: 5, content: 曾丞相云户, WYG: 郎}
   - {type: punctuation, offset: 1158, content: ), id: KR4d0105_krp_017-bkkpn33}
@@ -747,6 +756,7 @@ markers:
   - {type: line-break, offset: 1582, content: '', id: KR4d0105_SBCK_017-7b02}
   - {type: punctuation, offset: 1590, content: (, id: KR4d0105_krp_017-bkkpn37}
   - {type: variant, offset: 1590, length: 1, content: 反, WYG: ''}
+  - {type: voice, offset: 1590, length: 3, name: note, id: n10}
   - {type: punctuation, offset: 1591, content: /, id: KR4d0105_krp_017-bkkpn38}
   - {type: substitution, offset: 1592, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 1593, content: ), id: KR4d0105_krp_017-bkkpn39}
@@ -867,6 +877,7 @@ markers:
   - {type: variant, offset: 1882, length: 1, content: 丘, WYG: 邱}
   - {type: punctuation, offset: 1884, content: (, id: KR4d0105_krp_017-bkkpn40}
   - {type: variant, offset: 1884, length: 0, content: '', WYG: 希}
+  - {type: voice, offset: 1884, length: 7, name: note, id: n11}
   - {type: punctuation, offset: 1885, content: /, id: KR4d0105_krp_017-bkkpn41}
   - {type: variant, offset: 1885, length: 3, content: 希觀中, WYG: ''}
   - {type: punctuation, offset: 1886, content: ), id: KR4d0105_krp_017-bkkpn42}
@@ -951,6 +962,7 @@ markers:
   - {type: variant, offset: 2090, length: 1, content: 時, WYG: 日}
   - {type: punctuation, offset: 2097, content: (, id: KR4d0105_krp_017-bkkpn46}
   - {type: variant, offset: 2097, length: 2, content: 竹中, WYG: ''}
+  - {type: voice, offset: 2097, length: 5, name: note, id: n12}
   - {type: punctuation, offset: 2099, content: /, id: KR4d0105_krp_017-bkkpn47}
   - {type: punctuation, offset: 2102, content: ), id: KR4d0105_krp_017-bkkpn48}
   - {type: 'kr:newline', offset: 2102, content: '
@@ -985,6 +997,7 @@ markers:
   - {type: page-break, offset: 2158, content: '', id: KR4d0105_WYG_017-10a, image: WYG1118/WYG1118-0526a.png}
   - {type: punctuation, offset: 2168, content: (, id: KR4d0105_krp_017-bkkpn49}
   - {type: variant, offset: 2168, length: 3, content: 役永安, WYG: ''}
+  - {type: voice, offset: 2168, length: 7, name: note, id: n13}
   - {type: punctuation, offset: 2171, content: /, id: KR4d0105_krp_017-bkkpn50}
   - {type: punctuation, offset: 2175, content: ), id: KR4d0105_krp_017-bkkpn51}
   - {type: 'kr:newline', offset: 2175, content: '
@@ -1069,4 +1082,4 @@ markers:
   - {type: variant, offset: 2364, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻十八目録}
   - {type: page-break, offset: 2364, content: '', id: KR4d0105_WYG_018-1a, image: WYG1118/WYG1118-0526c.png}
   back: []
-hash: sha256:914161d3d27d119ee13a1065cf5e7a6192dd05201f88624f2d83b3e9fd82b5f5
+hash: sha256:1b4c2f78e4d92136f983bc09ac1cd5ae794af7114e2dcbad27c56e7fc7282933

@@ -609,9 +609,10 @@ markers:
   - {type: line-break, offset: 479, content: '', id: KR4d0105_SBCK_000-5b09}
   - {type: substitution, offset: 481, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 489, content: (, id: KR4d0105_krp_000-bkkpn1}
+  - {type: voice, offset: 489, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 490, content: ), id: KR4d0105_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 490, content: '
 
       ', id: KR4d0105_krp_000-bkkkrnewl79}
   back: []
-hash: sha256:5dedafed8515421ec4c1faafd31e2f8976e2007b348078a5058a75445c6b4d46
+hash: sha256:3b0f37151ed4d4a5519ef58ba6c5421cf67a43921e8f61e1dbcdfc16ab148b61

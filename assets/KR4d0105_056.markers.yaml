@@ -104,6 +104,7 @@ markers:
   - {type: variant, offset: 80, length: 16, content: 濟北晁先生雞肋集目録終濟北晁先生, WYG: ''}
   - {type: substitution, offset: 82, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 90, content: (, id: KR4d0105_krp_056-bkkpn1}
+  - {type: voice, offset: 90, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 91, content: ), id: KR4d0105_krp_056-bkkpn2}
   - {type: 'kr:newline', offset: 91, content: '
 
@@ -291,6 +292,7 @@ markers:
   - {type: line-break, offset: 661, content: '', id: KR4d0105_SBCK_056-3b06}
   - {type: punctuation, offset: 665, content: (, id: KR4d0105_krp_056-bkkpn3}
   - {type: variant, offset: 665, length: 0, content: '', WYG: 蘇公即云傳百聖道為一世師}
+  - {type: voice, offset: 665, length: 24, name: note, id: n2}
   - {type: punctuation, offset: 677, content: /, id: KR4d0105_krp_056-bkkpn4}
   - {type: variant, offset: 677, length: 12, content: 蘇公即云傳百聖道為一世師, WYG: ''}
   - {type: punctuation, offset: 689, content: ), id: KR4d0105_krp_056-bkkpn5}
@@ -1810,4 +1812,4 @@ markers:
   - {type: variant, offset: 5487, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻五十七目録}
   - {type: page-break, offset: 5487, content: '', id: KR4d0105_WYG_057-1a, image: WYG1118/WYG1118-0871a.png}
   back: []
-hash: sha256:26b2d951c095ea9e81a38ae864f92712d3e3ca3c727bf929abf703d5c7a52460
+hash: sha256:666da4b72f821e19cfca1ca2d160d41a26a091c93bba0ea2903274feb85c23ad

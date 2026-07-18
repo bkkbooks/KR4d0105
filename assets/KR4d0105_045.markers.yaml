@@ -12,6 +12,7 @@ markers:
   - {type: variant, offset: 0, length: 29, content: 濟北晁先生雞肋集目録終濟北晁先生雞肋集巻第四十五唐舊書雜論, WYG: ''}
   - {type: substitution, offset: 2, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 10, content: (, id: KR4d0105_krp_045-bkkpn1}
+  - {type: voice, offset: 10, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 11, content: ), id: KR4d0105_krp_045-bkkpn2}
   - {type: 'kr:newline', offset: 11, content: '
 
@@ -466,6 +467,7 @@ markers:
   - {type: substitution, offset: 1140, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20802}}
   - {type: punctuation, offset: 1146, content: (, id: KR4d0105_krp_045-bkkpn1}
   - {type: variant, offset: 1146, length: 0, content: '', WYG: 前}
+  - {type: voice, offset: 1146, length: 16, name: note, id: n1}
   - {type: punctuation, offset: 1147, content: /, id: KR4d0105_krp_045-bkkpn2}
   - {type: variant, offset: 1147, length: 1, content: 前, WYG: 從第五琦請十畝}
   - {type: punctuation, offset: 1148, content: ), id: KR4d0105_krp_045-bkkpn3}
@@ -1425,4 +1427,4 @@ markers:
   - {type: page-break, offset: 3718, content: '', id: KR4d0105_WYG_046-1b, image: WYG1118/WYG1118-0778b.png}
   - {type: page-break, offset: 3718, content: '', id: KR4d0105_WYG_046-2a, image: WYG1118/WYG1118-0779a.png}
   back: []
-hash: sha256:4df29aed91efea3d78893a3b2a38abc5723306aae83707e5efcf100007e9acd7
+hash: sha256:9fd9f9302b35e94ea345f24d267974cb4a937a1f5f73a77916dea9b1bd0c4dc2

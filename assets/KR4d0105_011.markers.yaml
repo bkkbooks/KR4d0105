@@ -177,6 +177,7 @@ markers:
   - {type: punctuation, offset: 182, content: (, id: KR4d0105_krp_011-bkkpn1}
   - {type: variant, offset: 182, length: 1, content: 終, WYG: 欽}
   - {type: page-break, offset: 182, content: '', id: KR4d0105_WYG_011-3a, image: WYG1118/WYG1118-0478c.png}
+  - {type: voice, offset: 182, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 183, content: ), id: KR4d0105_krp_011-bkkpn2}
   - {type: 'kr:newline', offset: 183, content: '
 
@@ -899,6 +900,7 @@ markers:
   - {type: line-break, offset: 2264, content: '', id: KR4d0105_SBCK_011-9b06}
   - {type: substitution, offset: 2265, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 2277, content: (, id: KR4d0105_krp_011-bkkpn3}
+  - {type: voice, offset: 2277, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2278, content: ), id: KR4d0105_krp_011-bkkpn4}
   - {type: 'kr:newline', offset: 2283, content: '
 
@@ -1381,6 +1383,7 @@ markers:
   - {type: substitution, offset: 3706, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: punctuation, offset: 3712, content: (, id: KR4d0105_krp_011-bkkpn5}
   - {type: variant, offset: 3712, length: 0, content: '', WYG: 泑澤河源}
+  - {type: voice, offset: 3712, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 3716, content: /, id: KR4d0105_krp_011-bkkpn6}
   - {type: variant, offset: 3716, length: 4, content: 泑澤河源, WYG: ''}
   - {type: punctuation, offset: 3720, content: ), id: KR4d0105_krp_011-bkkpn7}
@@ -1444,4 +1447,4 @@ markers:
   - {type: variant, offset: 3852, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻十二目錄}
   - {type: page-break, offset: 3852, content: '', id: KR4d0105_WYG_012-1a, image: WYG1118/WYG1118-0485a.png}
   back: []
-hash: sha256:4e5c50ae3bb474e5f1b3334c1a6c24dd4c3f3ed8e13cd2a9c25f5897ab4a0a4b
+hash: sha256:cf24e984a3e3c9c03bff0f40277472895cdf2af257805ae313121b81be7e9381

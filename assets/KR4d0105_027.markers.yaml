@@ -74,6 +74,7 @@ markers:
   - {type: substitution, offset: 30, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 31, content: (, id: KR4d0105_krp_027-bkkpn1}
   - {type: variant, offset: 31, length: 1, content: 終, WYG: 欽}
+  - {type: voice, offset: 31, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 32, content: ), id: KR4d0105_krp_027-bkkpn2}
   - {type: 'kr:newline', offset: 32, content: '
 
@@ -1727,6 +1728,7 @@ markers:
   - {type: indent, offset: 4764, content: 　　, id: KR4d0105_krp_027-bkkind16}
   - {type: punctuation, offset: 4766, content: (, id: KR4d0105_krp_027-bkkpn3}
   - {type: variant, offset: 4766, length: 0, content: '', WYG: 余初偕鄉書時有水邱安期者以講論}
+  - {type: voice, offset: 4766, length: 45, name: note, id: n2}
   - {type: variant, offset: 4768, length: 1, content: 鄕, WYG: 鄉}
   - {type: substitution, offset: 4768, original: 鄕, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19673}}
   - {type: variant, offset: 4778, length: 1, content: 關, WYG: 闗}
@@ -1867,4 +1869,4 @@ markers:
   - {type: page-break, offset: 5074, content: '', id: KR4d0105_WYG_028-6b, image: WYG1118/WYG1118-0603d.png}
   - {type: page-break, offset: 5074, content: '', id: KR4d0105_WYG_028-7a, image: WYG1118/WYG1118-0604a.png}
   back: []
-hash: sha256:1814b26186985a47cf36e1fde9acfc84f195de603282bcfe8d45b0c98b3e5966
+hash: sha256:aab19a6c2e0c0ad1292ce1e08a4d98f9744148b1dd3af7c98ddb238551c1504c

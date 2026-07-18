@@ -111,6 +111,7 @@ markers:
   - {type: variant, offset: 127, length: 8, content: 目錄終濟北晁先生, WYG: ''}
   - {type: substitution, offset: 128, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 129, content: (, id: KR4d0105_krp_009-bkkpn1}
+  - {type: voice, offset: 129, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 130, content: ), id: KR4d0105_krp_009-bkkpn2}
   - {type: 'kr:newline', offset: 130, content: '
 
@@ -298,6 +299,7 @@ markers:
   - {type: indent, offset: 641, content: 　　, id: KR4d0105_krp_009-bkkind22}
   - {type: punctuation, offset: 646, content: (, id: KR4d0105_krp_009-bkkpn3}
   - {type: variant, offset: 646, length: 3, content: 叔所厚, WYG: ''}
+  - {type: voice, offset: 646, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 649, content: /, id: KR4d0105_krp_009-bkkpn4}
   - {type: punctuation, offset: 653, content: ), id: KR4d0105_krp_009-bkkpn5}
   - {type: 'kr:newline', offset: 653, content: '
@@ -740,6 +742,7 @@ markers:
   - {type: line-break, offset: 2059, content: '', id: KR4d0105_SBCK_009-8a03}
   - {type: punctuation, offset: 2069, content: (, id: KR4d0105_krp_009-bkkpn6}
   - {type: variant, offset: 2069, length: 0, content: '', WYG: 蘇文子由上關詩云}
+  - {type: voice, offset: 2069, length: 15, name: note, id: n3}
   - {type: substitution, offset: 2071, original: 囘, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20167}}
   - {type: punctuation, offset: 2076, content: /, id: KR4d0105_krp_009-bkkpn7}
   - {type: variant, offset: 2076, length: 8, content: 蘇文子􅒘上關詩云, WYG: ''}
@@ -1010,6 +1013,7 @@ markers:
   - {type: page-break, offset: 2871, content: '', id: KR4d0105_WYG_009-12a, image: WYG1118/WYG1118-0469a.png}
   - {type: punctuation, offset: 2881, content: (, id: KR4d0105_krp_009-bkkpn9}
   - {type: variant, offset: 2881, length: 0, content: '', WYG: 在揚州城中提點}
+  - {type: voice, offset: 2881, length: 25, name: note, id: n4}
   - {type: variant, offset: 2884, length: 1, content: 廨, SBCK: 􅅟}
   - {type: punctuation, offset: 2888, content: /, id: KR4d0105_krp_009-bkkpn10}
   - {type: variant, offset: 2888, length: 12, content: 在揚州城中提點經謂之浮山, WYG: ''}
@@ -1144,6 +1148,7 @@ markers:
   - {type: substitution, offset: 3254, original: 酧, replacement: 酬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17568}}
   - {type: punctuation, offset: 3263, content: (, id: KR4d0105_krp_009-bkkpn15}
   - {type: variant, offset: 3263, length: 4, content: 君章知賞, WYG: ''}
+  - {type: voice, offset: 3263, length: 9, name: note, id: n5}
   - {type: punctuation, offset: 3267, content: /, id: KR4d0105_krp_009-bkkpn16}
   - {type: punctuation, offset: 3272, content: ), id: KR4d0105_krp_009-bkkpn17}
   - {type: 'kr:newline', offset: 3272, content: '
@@ -1231,4 +1236,4 @@ markers:
   - {type: variant, offset: 3500, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻十目錄}
   - {type: page-break, offset: 3500, content: '', id: KR4d0105_WYG_010-1a, image: WYG1118/WYG1118-0470c.png}
   back: []
-hash: sha256:380330e1917ac1d75ade66a3039f5923d719c69759e5fbb03398cc6d62264098
+hash: sha256:3a6a7f1f6a9df266d9f5a0f98e20e0761354e3991b2367ba5e134120da329419

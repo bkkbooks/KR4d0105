@@ -112,6 +112,7 @@ markers:
   - {type: substitution, offset: 136, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 137, content: (, id: KR4d0105_krp_064-bkkpn1}
   - {type: variant, offset: 137, length: 1, content: 終, WYG: 欽}
+  - {type: voice, offset: 137, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 138, content: ), id: KR4d0105_krp_064-bkkpn2}
   - {type: 'kr:newline', offset: 138, content: '
 
@@ -2343,4 +2344,4 @@ markers:
   - {type: variant, offset: 7674, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻六十五目録}
   - {type: page-break, offset: 7674, content: '', id: KR4d0105_WYG_065-1a, image: WYG1118/WYG1118-0952a.png}
   back: []
-hash: sha256:f3c2d54760a31ed8408c74b93337cfb02787d4f85a076057981a6efda3605513
+hash: sha256:94305b61e7ab20d682e9668d4fef8548aa250880d18324eee89684555b100563

@@ -12,6 +12,7 @@ markers:
   - {type: variant, offset: 0, length: 29, content: 濟北晁先生雞肋集目録終濟北晁先生雞肋集巻第四十八唐舊書雜論, WYG: ''}
   - {type: substitution, offset: 2, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 10, content: (, id: KR4d0105_krp_048-bkkpn1}
+  - {type: voice, offset: 10, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 11, content: ), id: KR4d0105_krp_048-bkkpn2}
   - {type: 'kr:newline', offset: 11, content: '
 
@@ -1520,4 +1521,4 @@ markers:
   - {type: page-break, offset: 3932, content: '', id: KR4d0105_WYG_049-1b, image: WYG1118/WYG1118-0802b.png}
   - {type: page-break, offset: 3932, content: '', id: KR4d0105_WYG_049-2a, image: WYG1118/WYG1118-0802c.png}
   back: []
-hash: sha256:a197714c72b5aa873cfee7ac6add3b579c33a42ee5630d03352c06c66b61ce81
+hash: sha256:c1f0010a87e7dbbd4ebdad60a00ea0b098790d902b398b28a7eda9ccc21e561c

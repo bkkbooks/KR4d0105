@@ -12,6 +12,7 @@ markers:
   - {type: variant, offset: 0, length: 11, content: 濟北晁先生雞肋集目録終, WYG: ''}
   - {type: substitution, offset: 2, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 10, content: (, id: KR4d0105_krp_047-bkkpn1}
+  - {type: 'voice:problem', offset: 10, length: 0, id: KR4d0105_bkk_047-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 10}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4d0105_krp_047-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -27,6 +28,7 @@ markers:
       ', id: KR4d0105_krp_047-bkkkrnewl3}
   - {type: line-break, offset: 0, content: '', id: KR4d0105_SBCK_047-1b01}
   - {type: indent, offset: 0, content: 　　, id: KR4d0105_krp_047-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0105_bkk_047-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 17, content: '
 
       ', id: KR4d0105_krp_047-bkkkrnewl4}
@@ -1406,4 +1408,4 @@ markers:
   - {type: page-break, offset: 3970, content: '', id: KR4d0105_WYG_048-1b, image: WYG1118/WYG1118-0794d.png}
   - {type: page-break, offset: 3970, content: '', id: KR4d0105_WYG_048-2a, image: WYG1118/WYG1118-0795a.png}
   back: []
-hash: sha256:db2764d38651fb68215a8ee042511ce76d8d60d8f6d10b17f1134e74b154b7f0
+hash: sha256:f37e4db34601cd6c174c40b06e047d743e063ab8cc00721439680125ad14dae4

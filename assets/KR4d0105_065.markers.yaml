@@ -109,6 +109,7 @@ markers:
   - {type: substitution, offset: 114, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 115, content: (, id: KR4d0105_krp_065-bkkpn1}
   - {type: variant, offset: 115, length: 1, content: 終, WYG: 欽}
+  - {type: voice, offset: 115, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 116, content: ), id: KR4d0105_krp_065-bkkpn2}
   - {type: 'kr:newline', offset: 116, content: '
 
@@ -2534,4 +2535,4 @@ markers:
   - {type: page-break, offset: 8179, content: '', id: KR4d0105_WYG_065-27b, image: WYG1118/WYG1118-0965b.png}
   - {type: page-break, offset: 8179, content: '', id: KR4d0105_WYG_066-1a, image: WYG1118/WYG1118-0966a.png}
   back: []
-hash: sha256:b01d8a591ed4a826f93eda04646ac4c1f24ce69d00109c5f3bba4f7e5ec05b0f
+hash: sha256:bd6ec62b113c121222843dbaa86250880f2abba3fbeef78bd22a547ad891e5df

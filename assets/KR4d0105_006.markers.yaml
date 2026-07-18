@@ -150,6 +150,7 @@ markers:
   - {type: punctuation, offset: 168, content: (, id: KR4d0105_krp_006-bkkpn1}
   - {type: variant, offset: 168, length: 1, content: 終, WYG: 欽}
   - {type: page-break, offset: 168, content: '', id: KR4d0105_WYG_006-3a, image: WYG1118/WYG1118-0446a.png}
+  - {type: voice, offset: 168, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 169, content: ), id: KR4d0105_krp_006-bkkpn2}
   - {type: 'kr:newline', offset: 169, content: '
 
@@ -287,6 +288,7 @@ markers:
   - {type: variant, offset: 516, length: 1, content: 門, WYG: 闕}
   - {type: punctuation, offset: 525, content: (, id: KR4d0105_krp_006-bkkpn3}
   - {type: variant, offset: 525, length: 4, content: 文在髙陽, WYG: ''}
+  - {type: voice, offset: 525, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 529, content: /, id: KR4d0105_krp_006-bkkpn4}
   - {type: punctuation, offset: 534, content: ), id: KR4d0105_krp_006-bkkpn5}
   - {type: variant, offset: 534, length: 0, content: '', WYG: 文在髙陽}
@@ -671,6 +673,7 @@ markers:
   - {type: indent, offset: 1655, content: 　　, id: KR4d0105_krp_006-bkkind33}
   - {type: punctuation, offset: 1664, content: (, id: KR4d0105_krp_006-bkkpn6}
   - {type: variant, offset: 1664, length: 0, content: '', WYG: 李自號}
+  - {type: voice, offset: 1664, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 1667, content: /, id: KR4d0105_krp_006-bkkpn7}
   - {type: variant, offset: 1667, length: 3, content: 李自號, WYG: ''}
   - {type: punctuation, offset: 1670, content: ), id: KR4d0105_krp_006-bkkpn8}
@@ -1083,4 +1086,4 @@ markers:
   - {type: variant, offset: 2783, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻七目録}
   - {type: page-break, offset: 2783, content: '', id: KR4d0105_WYG_007-1a, image: WYG1118/WYG1118-0451a.png}
   back: []
-hash: sha256:0669511d2f420752bea8ffd9414cd777f60d2c516dcce230d2b917c2cd4ea2e4
+hash: sha256:a8aa71de8c5f9df3dc062668462c47679a2544d77e448a6bc5cfcc86dae5e5f0

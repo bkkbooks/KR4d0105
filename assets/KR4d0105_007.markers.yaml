@@ -179,6 +179,7 @@ markers:
   - {type: punctuation, offset: 204, content: (, id: KR4d0105_krp_007-bkkpn1}
   - {type: variant, offset: 204, length: 1, content: 終, WYG: 欽}
   - {type: page-break, offset: 204, content: '', id: KR4d0105_WYG_007-3a, image: WYG1118/WYG1118-0452a.png}
+  - {type: voice, offset: 204, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 205, content: ), id: KR4d0105_krp_007-bkkpn2}
   - {type: 'kr:newline', offset: 205, content: '
 
@@ -311,6 +312,7 @@ markers:
   - {type: line-break, offset: 502, content: '', id: KR4d0105_SBCK_007-4a02}
   - {type: punctuation, offset: 519, content: (, id: KR4d0105_krp_007-bkkpn3}
   - {type: variant, offset: 519, length: 0, content: '', WYG: 王才}
+  - {type: voice, offset: 519, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 521, content: /, id: KR4d0105_krp_007-bkkpn4}
   - {type: variant, offset: 521, length: 1, content: 王, WYG: 四}
   - {type: variant, offset: 522, length: 1, content: 才, WYG: 十}
@@ -390,6 +392,7 @@ markers:
   - {type: line-break, offset: 702, content: '', id: KR4d0105_SBCK_007-4b04}
   - {type: punctuation, offset: 709, content: (, id: KR4d0105_krp_007-bkkpn9}
   - {type: variant, offset: 709, length: 0, content: '', WYG: 事見}
+  - {type: voice, offset: 709, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 711, content: /, id: KR4d0105_krp_007-bkkpn10}
   - {type: variant, offset: 711, length: 2, content: 事見, WYG: ''}
   - {type: punctuation, offset: 713, content: ), id: KR4d0105_krp_007-bkkpn11}
@@ -732,6 +735,7 @@ markers:
   - {type: line-break, offset: 1660, content: '', id: KR4d0105_SBCK_007-8a03}
   - {type: punctuation, offset: 1673, content: (, id: KR4d0105_krp_007-bkkpn12}
   - {type: variant, offset: 1673, length: 0, content: '', WYG: 文叔有}
+  - {type: voice, offset: 1673, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 1676, content: /, id: KR4d0105_krp_007-bkkpn13}
   - {type: variant, offset: 1676, length: 3, content: 文叔有, WYG: ''}
   - {type: punctuation, offset: 1679, content: ), id: KR4d0105_krp_007-bkkpn14}
@@ -1131,4 +1135,4 @@ markers:
   - {type: variant, offset: 2789, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻八目錄}
   - {type: page-break, offset: 2789, content: '', id: KR4d0105_WYG_008-1a, image: WYG1118/WYG1118-0457a.png}
   back: []
-hash: sha256:ad01fddb94001a97b5a3970ebc80de9ea83cf285b862589e216c66502997862f
+hash: sha256:2a0cd4e8b0bc37f6f08bbbb89e1b7439dd89a69c6dcfc85b6c375aa767fdd0a6

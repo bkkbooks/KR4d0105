@@ -109,6 +109,7 @@ markers:
   - {type: punctuation, offset: 116, content: (, id: KR4d0105_krp_005-bkkpn1}
   - {type: variant, offset: 116, length: 1, content: 終, WYG: 欽}
   - {type: page-break, offset: 116, content: '', id: KR4d0105_WYG_005-2a, image: WYG1118/WYG1118-0440c.png}
+  - {type: voice, offset: 116, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 117, content: ), id: KR4d0105_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 117, content: '
 
@@ -803,6 +804,7 @@ markers:
   - {type: line-break, offset: 2147, content: '', id: KR4d0105_SBCK_005-8b03}
   - {type: punctuation, offset: 2152, content: (, id: KR4d0105_krp_005-bkkpn3}
   - {type: variant, offset: 2152, length: 0, content: '', WYG: 見神}
+  - {type: voice, offset: 2152, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 2154, content: /, id: KR4d0105_krp_005-bkkpn4}
   - {type: variant, offset: 2154, length: 2, content: 見神, WYG: ''}
   - {type: punctuation, offset: 2156, content: ), id: KR4d0105_krp_005-bkkpn5}
@@ -1002,4 +1004,4 @@ markers:
   - {type: variant, offset: 2669, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻六目錄古詩}
   - {type: page-break, offset: 2669, content: '', id: KR4d0105_WYG_006-1a, image: WYG1118/WYG1118-0445a.png}
   back: []
-hash: sha256:4fce62f60c7db1b7c2f6062c909a5d231475174eb1721f9fce9232dd5ecdd084
+hash: sha256:c64c3aca2490c6dba6082728455087a32b0e7574bca19d1f6b2088a9f1ea807f

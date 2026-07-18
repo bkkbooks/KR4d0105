@@ -112,6 +112,7 @@ markers:
   - {type: punctuation, offset: 89, content: (, id: KR4d0105_krp_019-bkkpn1}
   - {type: variant, offset: 89, length: 1, content: 終, WYG: 欽}
   - {type: page-break, offset: 89, content: '', id: KR4d0105_WYG_019-3a, image: WYG1118/WYG1118-0534c.png}
+  - {type: voice, offset: 89, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 90, content: ), id: KR4d0105_krp_019-bkkpn2}
   - {type: 'kr:newline', offset: 90, content: '
 
@@ -136,6 +137,7 @@ markers:
   - {type: variant, offset: 102, length: 0, content: '', WYG: 宋晁補之撰}
   - {type: punctuation, offset: 104, content: (, id: KR4d0105_krp_019-bkkpn3}
   - {type: variant, offset: 104, length: 1, content: 六, WYG: 五}
+  - {type: voice, offset: 104, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 106, content: ), id: KR4d0105_krp_019-bkkpn4}
   - {type: 'kr:newline', offset: 106, content: '
 
@@ -367,6 +369,7 @@ markers:
   - {type: line-break, offset: 468, content: '', id: KR4d0105_SBCK_019-4a07}
   - {type: indent, offset: 468, content: 　　, id: KR4d0105_krp_019-bkkind27}
   - {type: punctuation, offset: 474, content: (, id: KR4d0105_krp_019-bkkpn5}
+  - {type: voice, offset: 474, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 476, content: ), id: KR4d0105_krp_019-bkkpn6}
   - {type: 'kr:newline', offset: 476, content: '
 
@@ -469,4 +472,4 @@ markers:
   - {type: variant, offset: 638, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻二十目録}
   - {type: page-break, offset: 638, content: '', id: KR4d0105_WYG_020-1a, image: WYG1118/WYG1118-0536a.png}
   back: []
-hash: sha256:139d0afdd67454fe9d155f3ad5c39343d9ace4e9bacb6dc70af4b84ee76bf5e8
+hash: sha256:dbf3876806b0620d6036d6e24dd69bf2e99329c90c5b0dd91151435599a007d2

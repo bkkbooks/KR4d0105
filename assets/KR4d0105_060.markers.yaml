@@ -166,6 +166,7 @@ markers:
   - {type: variant, offset: 230, length: 16, content: 濟北晁先生雞肋集目録終濟北晁先生, WYG: ''}
   - {type: substitution, offset: 232, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 240, content: (, id: KR4d0105_krp_060-bkkpn1}
+  - {type: voice, offset: 240, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 241, content: ), id: KR4d0105_krp_060-bkkpn2}
   - {type: 'kr:newline', offset: 241, content: '
 
@@ -1949,4 +1950,4 @@ markers:
   - {type: variant, offset: 5939, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻六十一目録}
   - {type: page-break, offset: 5939, content: '', id: KR4d0105_WYG_061-1a, image: WYG1118/WYG1118-0906a.png}
   back: []
-hash: sha256:5973cf6d410775bd2cbd3acccda5d6eaa11f7b177b2c1fc3adc39b7c6b9c024a
+hash: sha256:6cbfe02a93b421626d6f51d18c5b0d1b968b78199533fba848621dc151be7d2d

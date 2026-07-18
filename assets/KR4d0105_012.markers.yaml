@@ -184,6 +184,7 @@ markers:
   - {type: punctuation, offset: 228, content: (, id: KR4d0105_krp_012-bkkpn1}
   - {type: variant, offset: 228, length: 1, content: 終, WYG: 欽}
   - {type: page-break, offset: 228, content: '', id: KR4d0105_WYG_012-3a, image: WYG1118/WYG1118-0486c.png}
+  - {type: voice, offset: 228, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 229, content: ), id: KR4d0105_krp_012-bkkpn2}
   - {type: 'kr:newline', offset: 229, content: '
 
@@ -436,6 +437,7 @@ markers:
   - {type: line-break, offset: 914, content: '', id: KR4d0105_SBCK_012-5a08}
   - {type: variant, offset: 915, length: 8, content: 弟酒中從聖賢田君, WYG: ''}
   - {type: punctuation, offset: 921, content: (, id: KR4d0105_krp_012-bkkpn3}
+  - {type: voice, offset: 921, length: 16, name: note, id: n2}
   - {type: punctuation, offset: 929, content: /, id: KR4d0105_krp_012-bkkpn4}
   - {type: punctuation, offset: 937, content: ), id: KR4d0105_krp_012-bkkpn5}
   - {type: 'kr:newline', offset: 937, content: '
@@ -806,6 +808,7 @@ markers:
   - {type: line-break, offset: 1982, content: '', id: KR4d0105_SBCK_012-8b09}
   - {type: punctuation, offset: 1995, content: (, id: KR4d0105_krp_012-bkkpn6}
   - {type: variant, offset: 1995, length: 4, content: 後罷挍讐, WYG: ''}
+  - {type: voice, offset: 1995, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 1999, content: /, id: KR4d0105_krp_012-bkkpn7}
   - {type: punctuation, offset: 2004, content: ), id: KR4d0105_krp_012-bkkpn8}
   - {type: variant, offset: 2004, length: 0, content: '', WYG: 後罷挍讐}
@@ -861,6 +864,7 @@ markers:
   - {type: substitution, offset: 2102, original: 竆, replacement: 窮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19605}}
   - {type: punctuation, offset: 2115, content: (, id: KR4d0105_krp_012-bkkpn9}
   - {type: variant, offset: 2115, length: 0, content: '', WYG: 予}
+  - {type: voice, offset: 2115, length: 12, name: note, id: n4}
   - {type: punctuation, offset: 2116, content: /, id: KR4d0105_krp_012-bkkpn10}
   - {type: variant, offset: 2116, length: 1, content: 予, WYG: 冕仲俱為韓}
   - {type: substitution, offset: 2116, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
@@ -991,6 +995,7 @@ markers:
   - {type: substitution, offset: 2458, original: 橊, replacement: 榴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19541}}
   - {type: punctuation, offset: 2470, content: (, id: KR4d0105_krp_012-bkkpn15}
   - {type: variant, offset: 2470, length: 0, content: '', WYG: 二花兩家皆}
+  - {type: voice, offset: 2470, length: 10, name: note, id: n5}
   - {type: punctuation, offset: 2475, content: /, id: KR4d0105_krp_012-bkkpn16}
   - {type: variant, offset: 2475, length: 5, content: 二花兩家皆, WYG: ''}
   - {type: punctuation, offset: 2480, content: ), id: KR4d0105_krp_012-bkkpn17}
@@ -1237,6 +1242,7 @@ markers:
   - {type: punctuation, offset: 3167, content: (, id: KR4d0105_krp_012-bkkpn18}
   - {type: variant, offset: 3167, length: 0, content: '', WYG: 數物伯時}
   - {type: page-break, offset: 3167, content: '', id: KR4d0105_WYG_012-13a, image: WYG1118/WYG1118-0491c.png}
+  - {type: voice, offset: 3167, length: 8, name: note, id: n6}
   - {type: punctuation, offset: 3171, content: /, id: KR4d0105_krp_012-bkkpn19}
   - {type: variant, offset: 3171, length: 4, content: 數物伯時, WYG: ''}
   - {type: punctuation, offset: 3175, content: ), id: KR4d0105_krp_012-bkkpn20}
@@ -1373,4 +1379,4 @@ markers:
   - {type: variant, offset: 3540, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻}
   - {type: page-break, offset: 3540, content: '', id: KR4d0105_WYG_013-1a, image: WYG1118/WYG1118-0492c.png}
   back: []
-hash: sha256:8b542e36d922642e3cc7ac3c60007471a19bd9b8b08254cddc9db4e720147225
+hash: sha256:515305fbf2594a5ecb38ac068d14a858ff963a0e964ac1b6d367c8f12555fe59

@@ -26,6 +26,7 @@ markers:
   - {type: indent, offset: 6, content: 　　　, id: KR4d0105_krp_034-bkkind3}
   - {type: punctuation, offset: 12, content: (, id: KR4d0105_krp_034-bkkpn1}
   - {type: variant, offset: 12, length: 2, content: 郎作, WYG: ''}
+  - {type: voice, offset: 12, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 14, content: /, id: KR4d0105_krp_034-bkkpn2}
   - {type: punctuation, offset: 17, content: ), id: KR4d0105_krp_034-bkkpn3}
   - {type: 'kr:newline', offset: 17, content: '
@@ -81,6 +82,7 @@ markers:
   - {type: variant, offset: 55, length: 16, content: 濟北晁先生雞肋集目録終濟北晁先生, WYG: ''}
   - {type: substitution, offset: 57, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 65, content: (, id: KR4d0105_krp_034-bkkpn4}
+  - {type: voice, offset: 65, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 66, content: ), id: KR4d0105_krp_034-bkkpn5}
   - {type: 'kr:newline', offset: 66, content: '
 
@@ -2016,4 +2018,4 @@ markers:
   - {type: variant, offset: 5973, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻}
   - {type: page-break, offset: 5973, content: '', id: KR4d0105_WYG_035-1a, image: WYG1118/WYG1118-0668a.png}
   back: []
-hash: sha256:5385acba28bc41d8602eb302ed67c063556e46e4376f55e40c385a1a6d6177d2
+hash: sha256:8eb3908b3606df4ea67e1238406d82302055439041c48e4e0fad294f7ee808af

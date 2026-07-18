@@ -124,6 +124,7 @@ markers:
   - {type: variant, offset: 105, length: 16, content: 濟北晁先生雞肋集目録終濟北晁先生, WYG: ''}
   - {type: substitution, offset: 107, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 115, content: (, id: KR4d0105_krp_035-bkkpn1}
+  - {type: voice, offset: 115, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 116, content: ), id: KR4d0105_krp_035-bkkpn2}
   - {type: 'kr:newline', offset: 116, content: '
 
@@ -1209,6 +1210,7 @@ markers:
   - {type: line-break, offset: 3711, content: '', id: KR4d0105_SBCK_035-14a02}
   - {type: punctuation, offset: 3718, content: (, id: KR4d0105_krp_035-bkkpn3}
   - {type: variant, offset: 3718, length: 0, content: '', WYG: 司馬遷之父名談其書趙談云}
+  - {type: voice, offset: 3718, length: 35, name: note, id: n2}
   - {type: substitution, offset: 3721, original: 椉, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17150}}
   - {type: punctuation, offset: 3730, content: /, id: KR4d0105_krp_035-bkkpn4}
   - {type: variant, offset: 3730, length: 17, content: 司馬遷之父名談其書趙談云諱先子昜之, WYG: ''}
@@ -2289,4 +2291,4 @@ markers:
   - {type: variant, offset: 7191, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻三十六目録}
   - {type: page-break, offset: 7191, content: '', id: KR4d0105_WYG_036-1a, image: WYG1118/WYG1118-0681a.png}
   back: []
-hash: sha256:3a278981e766d76b66ee76ad77c515ca2d7383caf2e59116cb5930dd6c60bd79
+hash: sha256:b296a64a3d9b9e5a45d52d115253707fcd8a11ace55ffe4ca9bf31f0bd881c7b

@@ -41,6 +41,7 @@ markers:
   - {type: substitution, offset: 14, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: substitution, offset: 21, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 22, content: (, id: KR4d0105_krp_039-bkkpn1}
+  - {type: voice, offset: 22, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 23, content: ), id: KR4d0105_krp_039-bkkpn2}
   - {type: 'kr:newline', offset: 23, content: '
 
@@ -1832,4 +1833,4 @@ markers:
   - {type: variant, offset: 6010, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻四十目錄}
   - {type: page-break, offset: 6010, content: '', id: KR4d0105_WYG_040-1a, image: WYG1118/WYG1118-0718a.png}
   back: []
-hash: sha256:8211017792312a8eaaeeeebc0f7dfab04c54194199994493f3c413d1eab84766
+hash: sha256:ee26160614f1bd675d81bbe26e3c11e6c254f192ae5ba902a5aa1f60fe0eeeb0

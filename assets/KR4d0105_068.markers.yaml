@@ -77,6 +77,7 @@ markers:
   - {type: punctuation, offset: 77, content: (, id: KR4d0105_krp_068-bkkpn1}
   - {type: variant, offset: 77, length: 1, content: 幷, WYG: 并}
   - {type: substitution, offset: 77, original: 幷, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20385}}
+  - {type: voice, offset: 77, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 79, content: ), id: KR4d0105_krp_068-bkkpn2}
   - {type: 'kr:newline', offset: 79, content: '
 
@@ -91,6 +92,7 @@ markers:
   - {type: variant, offset: 88, length: 16, content: 濟北晁先生雞肋集目録終濟北晁先生, WYG: ''}
   - {type: substitution, offset: 90, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 98, content: (, id: KR4d0105_krp_068-bkkpn3}
+  - {type: voice, offset: 98, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 99, content: ), id: KR4d0105_krp_068-bkkpn4}
   - {type: 'kr:newline', offset: 99, content: '
 
@@ -612,6 +614,7 @@ markers:
   - {type: line-break, offset: 1745, content: '', id: KR4d0105_SBCK_068-7a01}
   - {type: punctuation, offset: 1747, content: (, id: KR4d0105_krp_068-bkkpn5}
   - {type: variant, offset: 1747, length: 0, content: '', WYG: 君言鹽錢}
+  - {type: voice, offset: 1747, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 1751, content: /, id: KR4d0105_krp_068-bkkpn6}
   - {type: variant, offset: 1751, length: 4, content: 君言鹽錢, WYG: ''}
   - {type: punctuation, offset: 1755, content: ), id: KR4d0105_krp_068-bkkpn7}
@@ -1732,6 +1735,7 @@ markers:
   - {type: punctuation, offset: 5434, content: (, id: KR4d0105_krp_068-bkkpn8}
   - {type: variant, offset: 5434, length: 1, content: 幷, WYG: 并}
   - {type: substitution, offset: 5434, original: 幷, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20385}}
+  - {type: voice, offset: 5434, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 5436, content: ), id: KR4d0105_krp_068-bkkpn9}
   - {type: 'kr:newline', offset: 5436, content: '
 
@@ -2291,4 +2295,4 @@ markers:
   - {type: variant, offset: 7231, length: 0, content: '', WYG: 欽定四庫全書雞肋集巻六十九目録}
   - {type: page-break, offset: 7231, content: '', id: KR4d0105_WYG_069-1a, image: WYG1118/WYG1118-1005c.png}
   back: []
-hash: sha256:0a222aaac2814275459ad76ed76d8c43c059afa1a8731ccd87ef49f81c5cd35a
+hash: sha256:a7b97c9edb28a48d94e321f45ef4a59b24dcc4e32ccaab19ee282243ffed64aa
